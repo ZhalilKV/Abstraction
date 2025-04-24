@@ -21,7 +21,8 @@ Surface Area: 6*a^2
 Volume: a^3
 
 SAMPLE OUTPUT
-Output Information
+
+
 For each shape in the list, the program displays:
 
 The name of the shape
